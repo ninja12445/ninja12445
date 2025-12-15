@@ -1,8 +1,7 @@
-## Hi there 👋
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ninja12445&column=10&theme=gruvbox&no-frame=true"/>
-</a>
-
+## Welcome to my github profile
+- 🌱 I’m a life long junior love to learn about system thinking 
+- 🔭 I’m working on alignment and safety
+- 💬 My goal is to build sthing for good 
 <!--
 **ninja12445/ninja12445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
