@@ -1,7 +1,5 @@
 ## Hi there 👋
-## 🏆 My GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ninja12445)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ninja12445&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **ninja12445/ninja12445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
