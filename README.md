@@ -1,7 +1,8 @@
 ## Welcome to my github profile
 - 🌱 I’m a life long junior love to learn about system thinking 
 - 🔭 I’m working on alignment and safety
-- 💬 My goal is to build sthing for good 
+- 💬 My goal is to build sthing for good
+[!ninja12445 GitHub stats](https://github-readme-stats.vercel.app/api?username=ninja12445)]()
 <!--
 **ninja12445/ninja12445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
