@@ -3,7 +3,7 @@
 - 🔭 Research: safety, alignment, ethics, responsible, 
 - 💬 My goal is to build sthing for good
 - Currently learning: LLMs, RLHF, RAG, embeddings, agentic, privacy, natural language processing
-
+- Do you want a washing machine, or do you want a manager ? 
 <!--
 **ninja12445/ninja12445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
