@@ -4,7 +4,7 @@
 - 💬 My goal is to build sthing for good
 - Currently learning: LLMs, RLHF, RAG, embeddings, agentic, privacy, natural language processing
 - Do you want something that follows instructions, or something that makes its own decisions?
-
+- Intelligence + Autonomy = Responsibility + Risk 
 <!--
 **ninja12445/ninja12445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
