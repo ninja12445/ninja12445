@@ -2,7 +2,6 @@
 - 🌱 I’m a life long junior love to learn about system thinking 
 - 🔭 Research: safety, alignment, ethics, responsible, 
 - 💬 My goal is to build sthing for good
-- Currently learning: LLMs, RLHF, RAG, embeddings, agentic, privacy, natural language processing
 - Do you want something that follows instructions, or something that makes its own decisions?
 - Intelligence + Autonomy = Responsibility + Risk 
 <!--
