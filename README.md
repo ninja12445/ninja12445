@@ -5,6 +5,9 @@
 - Do you want something that follows instructions, or something that makes its own decisions?
 - Intelligence + Autonomy = Responsibility + Risk 
 - what could go wrong behaviorally and economically ?
+- Preview:
+[] working on recalibrating AGRC (general reasoning capacity)
+  
 <!--
 **ninja12445/ninja12445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
