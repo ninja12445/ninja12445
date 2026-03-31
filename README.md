@@ -4,9 +4,10 @@
 - 💬 My goal is to build sthing for good
 - Do you want something that follows instructions, or something that makes its own decisions?
 - Intelligence + Autonomy = Responsibility + Risk 
-- what could go wrong behaviorally and economically ?
-- Preview:
-[] working on recalibrating AGRC (general reasoning capacity)
+- what could go wrong behaviorally and economically ? 
+
+- preview:
+- [] working on recalibrating AGRC (general reasoning capacity) | Release on 15th may
   
 <!--
 **ninja12445/ninja12445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
