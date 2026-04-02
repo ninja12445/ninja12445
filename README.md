@@ -7,7 +7,7 @@
 - what could go wrong behaviorally and economically ? 
 
 - preview:
-- [] working on recalibrating AGRC (general reasoning capacity) | Release on 15th may
+- [] working on recalibrating AGRC | Release on 15th may
   
 <!--
 **ninja12445/ninja12445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
